@@ -2,5 +2,6 @@
 - [jQuery Waypoints](https://github.com/imakewebthings/waypoints): jQuery 滚动监听事件
 - [letterfx](https://github.com/tuxsudo/letterfx): 文字特效 
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg): 现代web必备javascript SVG库 
+- [shape-shifter](https://github.com/kennethcachia/shape-shifter): HTML5 Canvas粒子效果文字动画特效
 - [picturefill](https://github.com/scottjehl/picturefill): 响应式图片填充工具picturefill(根据显示器大小动态加载图片)
 - [masonry](https://github.com/desandro/masonry): 瀑布流布局
