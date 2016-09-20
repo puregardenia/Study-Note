@@ -1,3 +1,4 @@
-letter.js  
+[letter.js](https://github.com/davatron5000/Lettering.js): 字符串拆分成字符单个显示
 
-jQuery Waypoints 
+[jQuery Waypoints](https://github.com/imakewebthings/waypoints): jQuery 滚动监听事件
+[letterfx](https://github.com/tuxsudo/letterfx): 文字特效 
