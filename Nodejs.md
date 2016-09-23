@@ -1,9 +1,12 @@
+
+### Publish a module
+
 [minimist](https://github.com/substack/minimist): argv parser. like ``process.argv``
-[]
+[liftoff](https://github.com/js-cli/js-liftoff): Launch your command line tool with ease.
 
 《Node.js实战》随书源码地址存根：
 
-第一章、第二章：使用Express + MongoDB搭建多人博客：(https://github.com/nswbmw/N-blog)
+第一章、第二章：使用Express + MongoDB搭建多人博客：https://github.com/nswbmw/N-blog
  
 第三章：使用Redis搭建漂流瓶服务器：https://github.com/nswbmw/N-drifter
  
