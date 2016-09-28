@@ -22,9 +22,16 @@
 ## 《Node.js实战》(第2季) 随书源码地址存根：
 
 第一章：通过Docker快速发布Node.js应用 https://github.com/DoubleSpout/nodeInAction/tree/master/docs
+
 第二章：开发OAuth认证服务器 https://github.com/leizongmin/book-nodejs-in-action-season-2
+
 第三章：基于RabbitMQ搭建消息队列 https://github.com/DoubleSpout/nodeInAction/tree/master/docs
+
 第四章：编写命令行工具--打造一个静态博客系统 https://github.com/leizongmin/book-nodejs-in-action-season-2
+
 第五章：基于Koa快速开发Web应用 https://github.com/nswbmw/N-club
+
 第六章：Node.js测试服务搭建 
+
 第七章：使用Node.js绑定C语言库--51Degrees.node https://github.com/51Degrees/51degrees.node
+
